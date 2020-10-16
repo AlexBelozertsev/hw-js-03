@@ -15,7 +15,7 @@ const developers = {
     poly: 250,
     alfred: 450,
 };
-// console.log(countTotalSalary(developers));
+console.log(countTotalSalary(developers));
 // 1000
 
 const supports = {
